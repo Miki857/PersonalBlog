@@ -1,0 +1,14 @@
+body{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    justify-items: center;
+}
+
+#root{
+    width: 80%;
+    background-color: antiquewhite;
+    box-shadow: 0 0 15px 5px black;
+
+    padding: 2rem;
+}

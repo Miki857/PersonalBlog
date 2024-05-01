@@ -1,0 +1,31 @@
+.container{
+    margin: 1rem 3rem;
+    padding: 2rem;
+
+    width: fit-content;
+}
+
+.containerBlue{
+    background-color: rgba(0, 102, 255, 0.3);
+    border: solid 2px rgb(0, 102, 255);
+}
+
+.containerRed{
+    background-color: rgba(255, 0, 0, 0.3);
+    border: solid 2px rgb(255, 0, 0);
+}
+
+.containerGreen{
+    background-color: rgba(25, 168, 6, 0.3);
+    border: solid 2px rgb(0, 255, 13);
+}
+    
+.containerInner{
+    padding: 1rem 2rem;
+
+    width: fit-content;
+}
+
+.iBlock{
+    display: block;
+}
